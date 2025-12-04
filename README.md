@@ -9,7 +9,7 @@ La aplicación genera gráficos de barras que muestran las ventas promedio por m
 ## URL del Repositorio GitHub
 
 ```
-https://github.com/yojhnnv11/GRAFICOS-2D
+https://github.com/heiderrevelo333/GRAFICOS-2D
 ```
 
 ## Requisitos Previos
